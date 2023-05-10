@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042442156051",
+    "project_id": "tb-reservily",
+    "storage_bucket": "tb-reservily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042442156051:android:53ec807903a1d479f1e7e6",
+        "android_client_info": {
+          "package_name": "trabelsibahe.app.location_voiture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042442156051-3eqg4p4f5do5kfo6htu989k5aat0veos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKXEnINslVMZEEC23uhlKgjTHuKMGZUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042442156051-3eqg4p4f5do5kfo6htu989k5aat0veos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
